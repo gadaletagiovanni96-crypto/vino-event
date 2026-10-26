@@ -55,7 +55,6 @@ Modalità di accesso:
 
 - registrazione con email e password
 - login con credenziali
-- accesso OAuth con Google e Apple
 - hashing delle password
 - mantenimento della sessione dopo il login
 
